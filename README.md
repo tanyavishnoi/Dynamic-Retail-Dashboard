@@ -88,7 +88,7 @@ This dashboard provides the following insights and features:
   ![image](https://github.com/user-attachments/assets/00ffec13-8756-45a1-802d-a929014385d6)
 
 - **Top 5 and Bottom 5**: Charts showcasing top and bottom 5 performers for Sales, Profit, and Order Quantity.
-  ![image](https://github.com/user-attachments/assets/4cba251e-ab9e-4b25-9fa6-82470447068c)
+  ![image](https://github.com/user-attachments/assets/ea35e0fa-6ec4-40ce-9982-d489597e0875)
 
 - **Global Sales Map**: A world map highlighting the top 10 countries by sales volume.
   
