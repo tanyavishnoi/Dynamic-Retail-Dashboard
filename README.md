@@ -91,6 +91,7 @@ This dashboard provides the following insights and features:
   ![image](https://github.com/user-attachments/assets/4cba251e-ab9e-4b25-9fa6-82470447068c)
 
 - **Global Sales Map**: A world map highlighting the top 10 countries by sales volume.
+  
   ![image](https://github.com/user-attachments/assets/46fe943c-eacd-460c-a5bf-1372a4d07d0b)
   
 - **Yearly Sales Trend**: Line or area charts showing the trend of sales over the years.
